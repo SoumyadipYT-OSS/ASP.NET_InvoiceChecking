@@ -1,0 +1,7 @@
+D:\GitHub_repo_connections\ASP.NET_InvoiceChecking\WebInvoice_GenAI\publish\WebInvoice_GenAI.exe
+D:\GitHub_repo_connections\ASP.NET_InvoiceChecking\WebInvoice_GenAI\publish\appsettings.Development.json
+D:\GitHub_repo_connections\ASP.NET_InvoiceChecking\WebInvoice_GenAI\publish\appsettings.json
+D:\GitHub_repo_connections\ASP.NET_InvoiceChecking\WebInvoice_GenAI\publish\WebInvoice_GenAI.dll
+D:\GitHub_repo_connections\ASP.NET_InvoiceChecking\WebInvoice_GenAI\publish\WebInvoice_GenAI.deps.json
+D:\GitHub_repo_connections\ASP.NET_InvoiceChecking\WebInvoice_GenAI\publish\WebInvoice_GenAI.runtimeconfig.json
+D:\GitHub_repo_connections\ASP.NET_InvoiceChecking\WebInvoice_GenAI\publish\WebInvoice_GenAI.pdb

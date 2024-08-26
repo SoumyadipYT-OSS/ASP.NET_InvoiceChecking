@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WebInvoice_GenAI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2a9fa9ac272997595da8809cb6ac92c1d867a8d3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d63e8171dc1bcecf270c54dee2608e27ac95d44b")]
 [assembly: System.Reflection.AssemblyProductAttribute("WebInvoice_GenAI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WebInvoice_GenAI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
