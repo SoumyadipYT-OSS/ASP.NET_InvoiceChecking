@@ -3,16 +3,12 @@
   "WorkspaceRootPath": "D:\\GitHub_repo_connections\\ASP.NET_InvoiceChecking\\WebInvoice_GenAI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9CF0DB96-8C79-4787-8D2B-6F32EA48990E}|WebInvoice_GenAI.csproj|d:\\github_repo_connections\\asp.net_invoicechecking\\webinvoice_genai\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{9CF0DB96-8C79-4787-8D2B-6F32EA48990E}|WebInvoice_GenAI.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{9CF0DB96-8C79-4787-8D2B-6F32EA48990E}|WebInvoice_GenAI.csproj|d:\\github_repo_connections\\asp.net_invoicechecking\\webinvoice_genai\\properties\\publishprofiles\\webinvoice-genai - web deploy.pubxml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{9CF0DB96-8C79-4787-8D2B-6F32EA48990E}|WebInvoice_GenAI.csproj|solutionrelative:properties\\publishprofiles\\webinvoice-genai - web deploy.pubxml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9CF0DB96-8C79-4787-8D2B-6F32EA48990E}|WebInvoice_GenAI.csproj|d:\\github_repo_connections\\asp.net_invoicechecking\\webinvoice_genai\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{9CF0DB96-8C79-4787-8D2B-6F32EA48990E}|WebInvoice_GenAI.csproj|solutionrelative:pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9CF0DB96-8C79-4787-8D2B-6F32EA48990E}|WebInvoice_GenAI.csproj|d:\\github_repo_connections\\asp.net_invoicechecking\\webinvoice_genai\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9CF0DB96-8C79-4787-8D2B-6F32EA48990E}|WebInvoice_GenAI.csproj|solutionrelative:pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,36 +18,24 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "site.css",
-              "DocumentMoniker": "D:\\GitHub_repo_connections\\ASP.NET_InvoiceChecking\\WebInvoice_GenAI\\wwwroot\\css\\site.css",
-              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
-              "ToolTip": "D:\\GitHub_repo_connections\\ASP.NET_InvoiceChecking\\WebInvoice_GenAI\\wwwroot\\css\\site.css",
-              "RelativeToolTip": "wwwroot\\css\\site.css",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAAB8AAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-08-26T08:44:13.261Z",
+              "Title": "WebInvoice-GenAI - Web Deploy.pubxml",
+              "DocumentMoniker": "D:\\GitHub_repo_connections\\ASP.NET_InvoiceChecking\\WebInvoice_GenAI\\Properties\\PublishProfiles\\WebInvoice-GenAI - Web Deploy.pubxml",
+              "RelativeDocumentMoniker": "Properties\\PublishProfiles\\WebInvoice-GenAI - Web Deploy.pubxml",
+              "ToolTip": "D:\\GitHub_repo_connections\\ASP.NET_InvoiceChecking\\WebInvoice_GenAI\\Properties\\PublishProfiles\\WebInvoice-GenAI - Web Deploy.pubxml",
+              "RelativeToolTip": "Properties\\PublishProfiles\\WebInvoice-GenAI - Web Deploy.pubxml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-08-26T10:17:39.074Z",
               "EditorCaption": ""
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "D:\\GitHub_repo_connections\\ASP.NET_InvoiceChecking\\WebInvoice_GenAI\\Pages\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Pages\\Shared\\_Layout.cshtml",
-              "ToolTip": "D:\\GitHub_repo_connections\\ASP.NET_InvoiceChecking\\WebInvoice_GenAI\\Pages\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Pages\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAB2AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-25T19:01:03.503Z"
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
               "$type": "Document",
@@ -61,9 +45,10 @@
               "RelativeDocumentMoniker": "Pages\\Index.cshtml",
               "ToolTip": "D:\\GitHub_repo_connections\\ASP.NET_InvoiceChecking\\WebInvoice_GenAI\\Pages\\Index.cshtml",
               "RelativeToolTip": "Pages\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABUAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-25T18:02:53.864Z"
+              "WhenOpened": "2024-08-25T18:02:53.864Z",
+              "EditorCaption": ""
             }
           ]
         },
