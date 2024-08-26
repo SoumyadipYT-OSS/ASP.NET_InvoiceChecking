@@ -20,7 +20,7 @@
 name: Build and deploy ASP.Net Core app to an Azure Web App
 
 env:
-  AZURE_WEBAPP_NAME: WebInvoice-GenAI    # set this to the name of your Azure Web App
+  AZURE_WEBAPP_NAME: https://portal.azure.com/#@soumyadipmajumder03outlook.onmicrosoft.com/resource/subscriptions/ca0f5ce9-9f9e-4cac-8f53-5d845f8af290/resourceGroups/ASP.NET-Deployments/providers/Microsoft.Web/sites/WebInvoice-GenAI/appServices    # set this to the name of your Azure Web App
   AZURE_WEBAPP_PACKAGE_PATH: 'https://github.com/SoumyadipYT-OSS/ASP.NET_InvoiceChecking/tree/main/WebInvoice_GenAI'      # set this to the path to your web app project, defaults to the repository root
   DOTNET_VERSION: '8'                 # set this to the .NET Core version to use
 
