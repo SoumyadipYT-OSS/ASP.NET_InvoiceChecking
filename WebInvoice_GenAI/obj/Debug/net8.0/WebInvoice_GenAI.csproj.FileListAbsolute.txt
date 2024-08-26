@@ -29,3 +29,8 @@ D:\GitHub_repo_connections\ASP.NET_InvoiceChecking\WebInvoice_GenAI\obj\Debug\ne
 D:\GitHub_repo_connections\ASP.NET_InvoiceChecking\WebInvoice_GenAI\obj\Debug\net8.0\WebInvoice_GenAI.pdb
 D:\GitHub_repo_connections\ASP.NET_InvoiceChecking\WebInvoice_GenAI\obj\Debug\net8.0\WebInvoice_GenAI.genruntimeconfig.cache
 D:\GitHub_repo_connections\ASP.NET_InvoiceChecking\WebInvoice_GenAI\obj\Debug\net8.0\ref\WebInvoice_GenAI.dll
+D:\GitHub_repo_connections\ASP.NET_InvoiceChecking\WebInvoice_GenAI\bin\Debug\net8.0\publish\web.config
+D:\GitHub_repo_connections\ASP.NET_InvoiceChecking\WebInvoice_GenAI\bin\Debug\net8.0\publish\appsettings.Development.json
+D:\GitHub_repo_connections\ASP.NET_InvoiceChecking\WebInvoice_GenAI\bin\Debug\net8.0\publish\appsettings.json
+D:\GitHub_repo_connections\ASP.NET_InvoiceChecking\WebInvoice_GenAI\bin\Debug\net8.0\publish\WebInvoice_GenAI.deps.json
+D:\GitHub_repo_connections\ASP.NET_InvoiceChecking\WebInvoice_GenAI\bin\Debug\net8.0\publish\WebInvoice_GenAI.runtimeconfig.json

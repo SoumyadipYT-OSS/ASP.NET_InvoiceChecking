@@ -20,7 +20,7 @@ html {
 body {
   margin-bottom: 60px;
   font-family: 'Roboto', sans-serif;
-  background-color: #f4f4f4;
+  background-image: url(../wallpaper.jpg);
 }
 
 header {
@@ -48,9 +48,12 @@ nav ul li a {
     padding: 2rem;
 }
 
+
+
 #extra-space {
     padding: 4rem;
 }
+
 
 footer {
     background-color: #333;

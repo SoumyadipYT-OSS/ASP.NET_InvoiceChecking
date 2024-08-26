@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "mGTzbaiFUMJGAwJ0yY08UKqR9hslEIU2UtHL+F84mb8=",
+  "Hash": "c6xipWEzBDdRYSaXAcCaPm1aoXGjzZQuKXDgtvchFd0=",
   "Source": "WebInvoice_GenAI",
   "BasePath": "_content/WebInvoice_GenAI",
   "Mode": "Default",
@@ -1193,6 +1193,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Identity": "D:\\GitHub_repo_connections\\ASP.NET_InvoiceChecking\\WebInvoice_GenAI\\wwwroot\\navVid.mp4",
+      "SourceId": "WebInvoice_GenAI",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\GitHub_repo_connections\\ASP.NET_InvoiceChecking\\WebInvoice_GenAI\\wwwroot\\",
+      "BasePath": "_content/WebInvoice_GenAI",
+      "RelativePath": "navVid.mp4",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\navVid.mp4"
     }
   ]
 }
