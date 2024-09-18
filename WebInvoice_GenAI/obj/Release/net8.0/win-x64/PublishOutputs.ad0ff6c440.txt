@@ -1,0 +1,12 @@
+D:\GitHub_repo_connections\ASP.NET_InvoiceChecking\WebInvoice_GenAI\obj\Release\net8.0\win-x64\PubTmp\Out\WebInvoice_GenAI.exe
+D:\GitHub_repo_connections\ASP.NET_InvoiceChecking\WebInvoice_GenAI\obj\Release\net8.0\win-x64\PubTmp\Out\publish\web.config
+D:\GitHub_repo_connections\ASP.NET_InvoiceChecking\WebInvoice_GenAI\obj\Release\net8.0\win-x64\PubTmp\Out\appsettings.Development.json
+D:\GitHub_repo_connections\ASP.NET_InvoiceChecking\WebInvoice_GenAI\obj\Release\net8.0\win-x64\PubTmp\Out\appsettings.json
+D:\GitHub_repo_connections\ASP.NET_InvoiceChecking\WebInvoice_GenAI\obj\Release\net8.0\win-x64\PubTmp\Out\publish\appsettings.Development.json
+D:\GitHub_repo_connections\ASP.NET_InvoiceChecking\WebInvoice_GenAI\obj\Release\net8.0\win-x64\PubTmp\Out\publish\appsettings.json
+D:\GitHub_repo_connections\ASP.NET_InvoiceChecking\WebInvoice_GenAI\obj\Release\net8.0\win-x64\PubTmp\Out\publish\WebInvoice_GenAI.deps.json
+D:\GitHub_repo_connections\ASP.NET_InvoiceChecking\WebInvoice_GenAI\obj\Release\net8.0\win-x64\PubTmp\Out\publish\WebInvoice_GenAI.runtimeconfig.json
+D:\GitHub_repo_connections\ASP.NET_InvoiceChecking\WebInvoice_GenAI\obj\Release\net8.0\win-x64\PubTmp\Out\WebInvoice_GenAI.dll
+D:\GitHub_repo_connections\ASP.NET_InvoiceChecking\WebInvoice_GenAI\obj\Release\net8.0\win-x64\PubTmp\Out\WebInvoice_GenAI.deps.json
+D:\GitHub_repo_connections\ASP.NET_InvoiceChecking\WebInvoice_GenAI\obj\Release\net8.0\win-x64\PubTmp\Out\WebInvoice_GenAI.runtimeconfig.json
+D:\GitHub_repo_connections\ASP.NET_InvoiceChecking\WebInvoice_GenAI\obj\Release\net8.0\win-x64\PubTmp\Out\WebInvoice_GenAI.pdb

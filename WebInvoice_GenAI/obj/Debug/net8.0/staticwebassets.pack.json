@@ -249,6 +249,10 @@
       "PackagePath": "staticwebassets\\navVid.mp4"
     },
     {
+      "Id": "D:\\GitHub_repo_connections\\ASP.NET_InvoiceChecking\\WebInvoice_GenAI\\wwwroot\\wallpaper.jpg",
+      "PackagePath": "staticwebassets\\wallpaper.jpg"
+    },
+    {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.WebInvoice_GenAI.Microsoft.AspNetCore.StaticWebAssets.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
     },

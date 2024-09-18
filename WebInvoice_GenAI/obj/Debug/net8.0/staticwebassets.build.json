@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "c6xipWEzBDdRYSaXAcCaPm1aoXGjzZQuKXDgtvchFd0=",
+  "Hash": "n1/uVS5+kytaiTNtepzs49D7U/xQ7Nf330/vE56RZ6g=",
   "Source": "WebInvoice_GenAI",
   "BasePath": "_content/WebInvoice_GenAI",
   "Mode": "Default",
@@ -1212,6 +1212,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\navVid.mp4"
+    },
+    {
+      "Identity": "D:\\GitHub_repo_connections\\ASP.NET_InvoiceChecking\\WebInvoice_GenAI\\wwwroot\\wallpaper.jpg",
+      "SourceId": "WebInvoice_GenAI",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\GitHub_repo_connections\\ASP.NET_InvoiceChecking\\WebInvoice_GenAI\\wwwroot\\",
+      "BasePath": "_content/WebInvoice_GenAI",
+      "RelativePath": "wallpaper.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\wallpaper.jpg"
     }
   ]
 }
